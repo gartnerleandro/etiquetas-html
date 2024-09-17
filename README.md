@@ -37,7 +37,7 @@ Tienes dos opciones para ver el resultado de tu HTML:
 ### Windows:
 
 1. Descargar e instalar nvm-windows desde [aquí](https://github.com/coreybutler/nvm-windows/releases)
-2. Cerrar y volver a abrir el terminal.
+2. Cerrar y volver a abrir el terminal
 3. Abrir el terminal y ecejutar el comando `nvm install 20.10.0`
 4. Ejecutar el comando `nvm use 20.10.0`
 5. Comprobar que node está correctamente instalado ejecutando `node -v`
@@ -48,11 +48,20 @@ Tienes dos opciones para ver el resultado de tu HTML:
 
 ### MacOS:
 
+1. Descargar e instalar nvm desde [aquí](https://github.com/nvm-sh/nvm)
+2. Cerrar y volver a abrir el terminal
+3. Abrir el terminal y ecejutar el comando `nvm install 20.10.0`
+4. Ejecutar el comando `nvm use 20.10.0`
+5. Comprobar que node está correctamente instalado ejecutando `node -v`
+7. Comprobar que ponemos ejecutar el comando `npm -v` sin errores
+8. Ejecutar `npm install` para instalar las dependencias necesarias para pasar los test
+9. Por úlitmo ejecuta `npm test` cuando quieras comprobar si el ejercicio es correcto
+
 ## Vídeos
 
 ### Explicación del repositorio
 
-[![https://www.youtube.com/watch?v=J3Fmrh6UybQ](https://i.ytimg.com/vi/J3Fmrh6UybQ/hqdefault.jpg)](https://www.youtube.com/watch?v=J3Fmrh6UybQ)
+// TODO
 
 ### Conceptos básicos de HTML
 
