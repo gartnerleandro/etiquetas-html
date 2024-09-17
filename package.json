@@ -1,0 +1,19 @@
+{
+    "name": "etiquetas-html",
+    "version": "1.0.0",
+    "description": "Explicación y ejercicios de etiquetas básicas de HTML.",
+    "homepage": "https://github.com/gartnerleandro/etiquetas-html#readme",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:gartnerleandro/etiquetas-html.git"
+    },
+    "keywords": [
+        "HTML",
+        "Ejercicios",
+        "Etiquetas html",
+        "Ejercicios html"
+    ],
+    "author": "Leandro Gartner",
+    "license": "MIT"
+  }
+  
