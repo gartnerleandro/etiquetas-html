@@ -23,7 +23,7 @@ Este repositorio contiene una serie de ejercicios para aprender las etiquetas HT
 
 ### Explicación del repositorio
 
-[![https://www.youtube.com/watch?v=h1F5Rt7H1yU](https://i9.ytimg.com/vi_webp/h1F5Rt7H1yU/mqdefault.webp)](https://www.youtube.com/watch?v=h1F5Rt7H1yU)
+[![https://www.youtube.com/watch?v=h1F5Rt7H1yU](https://github.com/user-attachments/assets/3bc6380d-d18d-49d3-89c4-bb698c58ca3a)](https://www.youtube.com/watch?v=h1F5Rt7H1yU)
 
 ## Visualizar tu HTML
 
