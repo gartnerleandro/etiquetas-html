@@ -2,6 +2,8 @@
 
 Esta etiqueta representa la raíz (el elemento más externo) de un documento HTML, por ese motivo se le llama también elemento `root` o `raíz`. Todas las demás etiquetas deberán estar dentro de la etiqueta `<html>`.
 
+> Fuente: https://developer.mozilla.org/es/docs/Web/HTML/Element/html
+
 ## Uso
 
 ```html

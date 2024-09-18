@@ -2,6 +2,8 @@
 
 Esta etiqueta representa el contenido de un documento HTML. Solo puede existir un elemento `<body>` en el documento. Este elemento puede tener cualquier [atributo global](https://developer.mozilla.org/es/docs/Web/HTML/Global_attributes).
 
+> Fuente: https://developer.mozilla.org/es/docs/Web/HTML/Element/body
+
 ## Uso
 
 ```html
