@@ -23,7 +23,7 @@ Este repositorio contiene una serie de ejercicios para aprender las etiquetas HT
 
 ### Explicación del repositorio
 
-[![https://www.youtube.com/watch?v=h1F5Rt7H1yU](https://github.com/user-attachments/assets/3bc6380d-d18d-49d3-89c4-bb698c58ca3a)](https://www.youtube.com/watch?v=h1F5Rt7H1yU)
+[![https://www.youtube.com/watch?v=h1F5Rt7H1yU](https://github.com/user-attachments/assets/124f845f-4a29-4db7-acd2-4146c3a5f9eb)](https://www.youtube.com/watch?v=h1F5Rt7H1yU)
 
 ## Visualizar tu HTML
 
@@ -60,7 +60,7 @@ Tienes dos opciones para ver el resultado de tu HTML:
 
 ## Conceptos básicos de HTML
 
-[![https://www.youtube.com/watch?v=J3Fmrh6UybQ](https://i.ytimg.com/vi/J3Fmrh6UybQ/hqdefault.jpg)](https://www.youtube.com/watch?v=J3Fmrh6UybQ)
+[![https://www.youtube.com/watch?v=J3Fmrh6UybQ](https://github.com/user-attachments/assets/51eb4293-4ea7-4468-a0f4-119bacbf63e5)](https://www.youtube.com/watch?v=J3Fmrh6UybQ)
 
 ## Comandos básicos de la terminal
 
