@@ -37,8 +37,8 @@ Tienes dos opciones para ver el resultado de tu HTML:
 ### Windows:
 
 1. Descargar e instalar nvm-windows desde [aquí](https://github.com/coreybutler/nvm-windows/releases)
-2. Cerrar y volver a abrir el terminal
-3. Abrir el terminal y ecejutar el comando `nvm install 20.10.0`
+2. Abrir el terminal (powershell)
+3. Ejecutar el comando `nvm install 20.10.0`
 4. Ejecutar el comando `nvm use 20.10.0`
 5. Comprobar que node está correctamente instalado ejecutando `node -v`
 6. Ahora ejecutar el comando `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
@@ -49,8 +49,8 @@ Tienes dos opciones para ver el resultado de tu HTML:
 ### MacOS:
 
 1. Descargar e instalar nvm desde [aquí](https://github.com/nvm-sh/nvm)
-2. Cerrar y volver a abrir el terminal
-3. Abrir el terminal y ecejutar el comando `nvm install 20.10.0`
+2. Abrir el terminal
+3. Ejecutar el comando `nvm install 20.10.0`
 4. Ejecutar el comando `nvm use 20.10.0`
 5. Comprobar que node está correctamente instalado ejecutando `node -v`
 7. Comprobar que ponemos ejecutar el comando `npm -v` sin errores
