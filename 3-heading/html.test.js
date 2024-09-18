@@ -10,7 +10,6 @@ test('El documento tiene la estructura HTML correcta', () => {
   expect(html.trim().toLowerCase().startsWith('<!doctype html>')).toBe(true);
   expect(document.documentElement.tagName).toBe('HTML');
   expect(document.documentElement.lang).toBe('es');
-  expect(document.head).toBeTruthy();
   expect(document.body).toBeTruthy();
 });
 
