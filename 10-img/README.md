@@ -45,4 +45,12 @@ Crea un archivo HTML llamado `index.html` dentro de la carpeta `ejercicio` con l
 
 Asegúrate de usar correctamente las etiquetas `<img>`, `<h1>`, `<article>`, `<h2>`, `<p>`, `<footer>`, `<ul>`, y `<a>`.
 
+## Cómo obtener imagen de ejemplo
+
+
+
+https://github.com/user-attachments/assets/19c79882-c85a-4b98-9cec-c907557e086d
+
+
+
 > Puedes obtener link de imágenes de prueba en https://unsplash.com/es o en https://www.pexels.com/es-es/ 
