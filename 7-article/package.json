@@ -1,0 +1,16 @@
+{
+  "name": "2--body",
+  "version": "1.0.0",
+  "description": "Etiqueta body",
+  "main": "ejercicio/index.html",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Leandro Gartner",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^25.0.0",
+    "vitest": "^2.1.1"
+  }
+}
