@@ -1,7 +1,6 @@
 {
-  "name": "2--body",
+  "name": "04--paragraph",
   "version": "1.0.0",
-  "description": "Etiqueta body",
   "main": "ejercicio/index.html",
   "scripts": {
     "test": "vitest"
