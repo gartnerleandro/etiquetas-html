@@ -1,7 +1,6 @@
 {
-  "name": "1--html",
+  "name": "01--html",
   "version": "1.0.0",
-  "description": "Etiqueta html",
   "main": "ejercicio/index.html",
   "scripts": {
     "test": "vitest"
