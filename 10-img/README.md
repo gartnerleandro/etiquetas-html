@@ -40,7 +40,7 @@ Crea un archivo HTML llamado `index.html` dentro de la carpeta `ejercicio` con l
      - Un `<h2>` con el texto "Descripción de la imagen".
      - Un `<p>` que describa la imagen.
    - Un `<footer>` que contenga:
-     - Un `<p>` con el texto "© 2023 Mi Página Web. Todos los derechos reservados.".
+     - Un `<p>` con el texto "© 2024 Mi Página Web. Todos los derechos reservados.".
      - Una lista desordenada (`<ul>`) con enlaces a "Contacto" (/contacto) y "Política de privacidad" (/politica), utilizando etiquetas `<a>`.
 
 Asegúrate de usar correctamente las etiquetas `<img>`, `<h1>`, `<article>`, `<h2>`, `<p>`, `<footer>`, `<ul>`, y `<a>`.

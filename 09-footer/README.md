@@ -11,7 +11,7 @@ La etiqueta `<footer>` se utiliza para definir un pie de página para un documen
 <html lang="es">
    <body>
       <footer>
-         <p>© 2023 Mi Página Web. Todos los derechos reservados.</p>
+         <p>© 2024 Mi Página Web. Todos los derechos reservados.</p>
       </footer>
    </body>
 </html>
@@ -34,7 +34,7 @@ Crea un archivo HTML llamado `index.html` dentro de la carpeta `ejercicio` con l
    - Un `<h1>` con el texto "Bienvenido a mi sitio web".
    - Una sección (`<section>`) con un `<h2>` que contenga el texto "Sobre mí" y un párrafo (`<p>`) que describa quién eres.
    - Una segunda sección (`<section>`) con un `<h2>` que contenga el texto "Mis proyectos" y al menos dos artículos (`<article>`) que describan diferentes proyectos. Cada artículo debe incluir un título con un `<h2>` y un párrafo (`<p>`) que describa el proyecto.
-   - Un pie de página (`<footer>`) que contenga un párrafo (`<p>`) con el texto "© 2023 Mi Página Web. Todos los derechos reservados." y una lista desordenada (`<ul>`) con enlaces a "Contacto" (/contacto) y "Política de privacidad" (/politica).
+   - Un pie de página (`<footer>`) que contenga un párrafo (`<p>`) con el texto "© 2024 Mi Página Web. Todos los derechos reservados." y una lista desordenada (`<ul>`) con enlaces a "Contacto" (/contacto) y "Política de privacidad" (/politica).
 
 Asegúrate de usar correctamente las etiquetas `<footer>`, `<section>`, `<article>`, `<p>`, y `<ul>`.
 

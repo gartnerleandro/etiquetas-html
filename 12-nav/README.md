@@ -25,7 +25,7 @@ La etiqueta `<nav>` se utiliza para definir un conjunto de enlaces de navegació
             <p>Este es el contenido principal de la página.</p>
         </main>
         <footer>
-            <p>© 2023 Mi Página Web. Todos los derechos reservados.</p>
+            <p>© 2024 Mi Página Web. Todos los derechos reservados.</p>
         </footer>
     </body>
 </html>
@@ -51,7 +51,7 @@ Crea un archivo HTML llamado `index.html` dentro de la carpeta `ejercicio` con l
      - Un `<section>` con el id "sobre-mi" que incluya un `<h2>` con el texto "Sobre mí" y un párrafo (`<p>`) que describa información sobre ti.
      - Un `<section>` con el id "mis-hobbies" que incluya un `<h2>` con el texto "Mis hobbies" y varios párrafos (`<p>`) que describan tus hobbies.
      - Un `<section>` con el id "contacto" que incluya un `<h2>` con el texto "Contacto" y un párrafo (`<p>`) con información de contacto.
-   - Un `<footer>` que contenga un párrafo (`<p>`) con el texto "© 2023 Mi Página Web. Todos los derechos reservados."
+   - Un `<footer>` que contenga un párrafo (`<p>`) con el texto "© 2024 Mi Página Web. Todos los derechos reservados."
 
 Asegúrate de usar correctamente las etiquetas `<nav>`, `<ul>`, `<li>`, `<a>`, `<main>`, `<section>`, `<h2>`, `<p>`, y `<footer>`.
 

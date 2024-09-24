@@ -16,7 +16,7 @@ La etiqueta `<main>` se utiliza para encapsular el contenido principal de un doc
           <p>Este es el contenido principal de la página.</p>
         </main>
         <footer>
-            <p>© 2023 Mi Página Web. Todos los derechos reservados.</p>
+            <p>© 2024 Mi Página Web. Todos los derechos reservados.</p>
         </footer>
     </body>
 </html>
@@ -38,6 +38,6 @@ Crea un archivo HTML llamado `index.html` dentro de la carpeta `ejercicio` con l
 4. Dentro de `<body>`, crea:
    - Un `<h1>` que contenga el texto "Bienvenido a mi sitio web".
    - Un `<main>` que contenga un `<h2>` con el texto "Contenido principal" y un párrafo (`<p>`) que describa el contenido principal de la página.
-   - Un `<footer>` que contenga un párrafo (`<p>`) con el texto "© 2023 Mi Página Web. Todos los derechos reservados."
+   - Un `<footer>` que contenga un párrafo (`<p>`) con el texto "© 2024 Mi Página Web. Todos los derechos reservados."
 
 Asegúrate de usar correctamente las etiquetas `<main>`, `<h1>`, y `<footer>`.

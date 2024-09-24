@@ -62,5 +62,5 @@ test('El body contiene un header, un nav, un main y un footer correctos', () => 
   expect(footer).toBeTruthy();
   const footerParagraph = footer.querySelector('p');
   expect(footerParagraph).toBeTruthy();
-  expect(footerParagraph.textContent.trim()).toBe('© 2023 Mi Página Web. Todos los derechos reservados.');
+  expect(footerParagraph.textContent.trim()).toBe('© 2024 Mi Página Web. Todos los derechos reservados.');
 });
